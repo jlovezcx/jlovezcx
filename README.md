@@ -15,6 +15,14 @@
 
 ---
 
+## ⚡ Daily Status
+
+<!-- DAILY-STATUS:START -->
+🟩 **Green streak: Day 1** · Last check-in: **2026-11-11** · The wall grows every day — this board updates itself daily.
+<!-- DAILY-STATUS:END -->
+
+---
+
 ## 🌟 About Me
 
 - 👋 I'm **helen** — exploring what's possible when humans team up with AI agents
@@ -42,6 +50,22 @@
 
 ---
 
+## 🐍 The Snake vs. The Wall
+
+A very hungry snake eats my contribution graph every day — and every day the wall grows back greener. Watch:
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlovezcx/jlovezcx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlovezcx/jlovezcx/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/jlovezcx/jlovezcx/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🟩 The Daily Green Wall
 
 This profile stays green — literally. My [daily-log](https://github.com/jlovezcx/daily-log) repository receives a commit **every single day**, rain or shine. Check the contribution graph above: no gaps allowed. 📅✅
@@ -57,6 +81,16 @@ This profile stays green — literally. My [daily-log](https://github.com/jlovez
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Boxes-4C8BF5?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+
+</div>
+
+---
+
+## 💬 A Line to Code By
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo-night" alt="A rotating quote" />
 
 </div>
 
