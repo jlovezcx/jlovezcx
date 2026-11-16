@@ -29,7 +29,7 @@
 - 🤖 Currently building automations that run every day: social workflows, inbox zero systems, cloud boxes & daily GitHub streaks
 - 🌱 Learning in public — one commit at a time
 - 💡 Interested in **AI agents · workflow automation · open source**
-- 📫 Find me on [Threads](https://www.threads.com/@jlovezcx) & [Instagram](https://www.instagram.com/jlovezcx) — same handle: **@jlovezcx**
+- 📫 Find me on [Threads](https://www.threads.com/@jlovezcx) — **@jlovezcx**
 
 > *"Ship a little every day."* 🐟
 
