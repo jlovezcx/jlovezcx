@@ -18,7 +18,7 @@
 ## ⚡ Daily Status
 
 <!-- DAILY-STATUS:START -->
-🟩 **Green streak: Day 5** · Last check-in: **2026-11-16** · The wall grows every day — this board updates itself daily.
+🟩 **Green streak: Day 6** · Last check-in: **2026-11-17** · The wall grows every day — this board updates itself daily.
 <!-- DAILY-STATUS:END -->
 
 ---
